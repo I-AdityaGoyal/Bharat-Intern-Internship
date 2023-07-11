@@ -18,7 +18,7 @@ The tasks completed during the internship include, but are not limited to:
 
 3. Task 3: Iris Flowers Classification
    - Description: Implement a machine learning model to classify Iris flowers into different species.
-   - Files: `Iris_Flowers_Classification.ipynbtask3.ipynb`, `data.csv`
+   - Files: `Iris_Flowers_Classification.ipynb`, `data.csv`
 
 Feel free to explore each task's folder to find the relevant code, data, and documentation.
 
